@@ -1,0 +1,20 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "5ecbfcf3adaaf13ad738de6cc789de4ee7b340d6",
+  "iOS" : [
+    {
+      "hash" : "033421df682372db7a434f86b7c4618ad0f309fe447a0b66fb1836588d89bd8b",
+      "name" : "Algorithms",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+    }
+  ]
+}
